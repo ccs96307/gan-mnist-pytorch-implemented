@@ -5,4 +5,4 @@ A simple test for GAN
     python3 mnist_train.py
 
 # More Informations
-My Blog: https://translate.google.com/?hl=zh-TW#view=home&op=translate&sl=auto&tl=zh-TW&text=usage
+My Blog: https://clay-atlas.com/blog/2020/01/09/pytorch-chinese-tutorial-mnist-generator-discriminator-mnist/
